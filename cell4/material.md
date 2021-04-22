@@ -1,5 +1,7 @@
 # April1
 
-
-
-It is gold and copper 
+In this folder you find more details about the cell XXX
+This include the following subjects:
+1- 
+2-
+3
